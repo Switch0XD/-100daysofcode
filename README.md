@@ -1,7 +1,7 @@
 <h1 align="center">100 Days of Code</h1>
 
-#Day0
-Getting Started with Java
+<h4>Day0</h4>
+<p>Getting Started with Java</p>
 
-#Day-1
-Basic of Java and Data Types
+<h4>Day 1</h4>
+<p>Basic of Java and Data Types</p>
