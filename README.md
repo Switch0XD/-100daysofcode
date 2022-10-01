@@ -5,3 +5,7 @@
 
 <h4>Day 1</h4>
 <p>Basic of Java and Data Types</p>
+
+<h4>Day 1</h4>
+<p>Learned and implemented Arithmatic operator, strings, and Method in Java</p>
+
