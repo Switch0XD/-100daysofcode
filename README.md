@@ -16,4 +16,8 @@
 <p>Learned about casting, reading inputs and made some simple programme.</p>
 
 
+<h4>Day 5</h4>
+<p>Learned loops and implemented simple programmes</p>
+
+
 
