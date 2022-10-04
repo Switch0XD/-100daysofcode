@@ -12,8 +12,11 @@
 <h4>Day 3</h4>
 <p>Started learning DSA in JAVA and made simple calculator and Mortage Calculator</p>
 
-<h4>Day 5</h4>
+<h4>Day 4</h4>
 <p>Learned about casting, reading inputs and made some simple programme.</p>
+
+<h4>Day 5</h4>
+<p>Learned loops and implemented simple programmes</p>
 
 
 
