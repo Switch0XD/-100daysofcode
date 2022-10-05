@@ -19,5 +19,8 @@
 <h4>Day 5</h4>
 <p>Learned loops and implemented simple programmes</p>
 
+<h4>Day 6</h4>
+<p>Learned condition statement and implemented sample programme</p>
+
 
 
