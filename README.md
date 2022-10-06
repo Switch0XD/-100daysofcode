@@ -22,5 +22,7 @@
 <h4>Day 6</h4>
 <p>Learned condition statement and implemented sample programme</p>
 
+<h4>Day 7</h4>
+<p>Learning of Switch Statement and implementation of sample programme</p>
 
 
