@@ -25,4 +25,7 @@
 <h4>Day 7</h4>
 <p>Learning of Switch Statement and implementation of sample programme</p>
 
+<h4>Day 8</h4>
+<p>Learning of Loops and implementation of sample programme</p>
+
 
