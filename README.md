@@ -28,6 +28,9 @@
 <h4>Day 8</h4>
 <p>Learning of Loops and implementation of sample programme</p>
 
+<<<<<<< HEAD
 <h4>Day 9</h4>
 <p>Basic functions</p>
+=======
+>>>>>>> 322a16919428fa9601e331a73f6f15d3e05e45be
 
