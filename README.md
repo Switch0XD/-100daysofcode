@@ -31,3 +31,6 @@
 <h4>Day 9</h4>
 <p>Basic functions</p>
 
+<h4>Day 10</h4>
+<p>Creation of Object and Class</p>
+
