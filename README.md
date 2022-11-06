@@ -38,6 +38,10 @@
 <h4>Day 11</h4>
 <p>Methods in Java</p>
 
-<h4>Day 11</h4>
+<h4>Day 12</h4>
 <p>Constructor in Java</p>
+
+<h4>Day 13</h4>
+<p>Pattern Printing </p>
+
 
