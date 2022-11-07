@@ -43,5 +43,9 @@
 
 <h4>Day 13</h4>
 <p>Pattern Printing </p>
+<hr>
+<h4>Day 14</h4>
+<p> Static Keyword</p>
+
 
 
