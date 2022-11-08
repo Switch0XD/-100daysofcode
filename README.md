@@ -47,8 +47,5 @@
 <h4>Day 14</h4>
 <p> Static Keyword</p>
 
-<h4>Day 14</h4>
-<p> This Keyword</p>
-
 
 
