@@ -47,11 +47,12 @@
 <h4>Day 14</h4>
 <p> Static Keyword</p>
 
-<<<<<<<<< Temporary merge branch 1
-=========
-<h4>Day 14</h4>
+<h4>Day 15</h4>
 <p> This Keyword</p>
 
->>>>>>>>> Temporary merge branch 2
+<h4>Day 15</h4>
+<p>Inheritance</p>
+
+
 
 
