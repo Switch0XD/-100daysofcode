@@ -71,5 +71,11 @@
 <h4>Day 22</h4>
 <p>Polymorphism</p>
 
+<h4>Day 23</h4>
+<p>Data Binding</p>
+
+<h4>Day 24</h4>
+<p>Instance of operator</p>
+
 
 
