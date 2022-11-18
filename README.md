@@ -77,5 +77,8 @@
 <h4>Day 24</h4>
 <p>Instance of operator</p>
 
+<h4>Day 25</h4>
+<p>Abstract</p>
+
 
 
