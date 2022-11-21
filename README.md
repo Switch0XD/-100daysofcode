@@ -80,11 +80,14 @@
 <h4>Day 25</h4>
 <p>Abstract</p>
 
-<h4>Day 25</h4>
+<h4>Day 26</h4>
 <p>Interface</p>
 
-<h4>Day 25</h4>
+<h4>Day 27</h4>
 <p>Encapsulation</p>
+
+<h4>Day 284>
+<p>Arrays</p>
 
 
 
