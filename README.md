@@ -86,8 +86,11 @@
 <h4>Day 27</h4>
 <p>Encapsulation</p>
 
-<h4>Day 284>
+<h4>Day 28</h>
 <p>Arrays</p>
+
+<h4>Day 29</h4>>
+<p>MultiDimensional Arrays</p>
 
 
 
