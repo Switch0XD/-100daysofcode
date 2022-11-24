@@ -95,5 +95,8 @@
 <h4>Day 30</h4>>
 <p>Object Clone Method</p>
 
+<h4>Day 31</h4>>
+<p>Math Method</p>
+
 
 
