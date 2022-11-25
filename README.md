@@ -98,6 +98,9 @@
 <h4>Day 31</h4>>
 <p>Math Method</p>
 
-<hr>
+<h4>Day 32h4>>
+<p>Wrapper Class</p>
+
+
 
 
