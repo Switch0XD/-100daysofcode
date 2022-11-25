@@ -98,5 +98,6 @@
 <h4>Day 31</h4>>
 <p>Math Method</p>
 
+<hr>
 
 
