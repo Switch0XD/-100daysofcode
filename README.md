@@ -98,8 +98,14 @@
 <h4>Day 31</h4>>
 <p>Math Method</p>
 
-<h4>Day 32h4>>
+<h4>Day 32</h4>
 <p>Wrapper Class</p>
+
+<h4>Day 33</h4>
+<p>Recursion</p>
+
+<h4>Day 34</h4>
+<p>Call by Value and call by reference</p>
 
 
 
