@@ -1,6 +1,6 @@
 //Java Program to convert all primitives into its corresponding   
 //wrapper objects and vice-versa  
-public class Wrapper{  
+public class Wrapper {
 public static void main(String args[]){  
 byte b=10;  
 short s=20;  
@@ -52,5 +52,5 @@ System.out.println("float value: "+floatvalue);
 System.out.println("double value: "+doublevalue);  
 System.out.println("char value: "+charvalue);  
 System.out.println("boolean value: "+boolvalue);  
-}}  
-Output:
+}
+}Output:
