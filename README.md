@@ -110,7 +110,10 @@
 <h4>Day 35</h4>
 <p>Jaggedď Array</p>
 
-<h4>Day 35</h4>
+<h4>Day 36</h4>
 <p>Java String CharAt Method</p>
+
+<h4>Day 37</h4>
+<p>Java String CompareTo Method</p>
 
 
