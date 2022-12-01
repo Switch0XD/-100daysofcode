@@ -116,4 +116,7 @@
 <h4>Day 37</h4>
 <p>Java String CompareTo Method</p>
 
+<h4>Day 38</h4>
+<p>Java String Equal Method</p>
+
 
