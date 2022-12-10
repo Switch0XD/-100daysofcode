@@ -120,6 +120,10 @@
 <p>Java String Equal Method</p>
 
 <h4>Day 39</h4>
+<<<<<<< HEAD
 <p>Java String Equal Ignore Case</p>
+=======
+<p>Java String Equal Method</p>
+>>>>>>> 8efb805043ceb4a74e7d8d4a3efcc9d4ead16ca9
 
 
