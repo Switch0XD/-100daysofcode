@@ -128,4 +128,7 @@
 <h4>Day 41</h4>
 <p>Java String getBytes() method</p>
 
+<h4>Day 42</h4>
+<p>Java String getChars() method</p>
+
 
