@@ -131,4 +131,6 @@
 <h4>Day 42</h4>
 <p>Java String getChars() method</p>
 
+<h4>Day 43</h4>
+<p>Java String indexOf() method</p>
 
