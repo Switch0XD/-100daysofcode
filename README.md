@@ -140,7 +140,7 @@
 
 
 <h4>Day 44</h4>
-<p>Java String intern() method</p>
+<p>Java String indexOf()</p>
 
 <h4>Day 45</h4>
-<p>Java String intern() method</p>
+<p>Project Scientific Calculator 🧮</p>
