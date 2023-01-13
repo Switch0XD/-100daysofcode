@@ -144,3 +144,6 @@
 
 <h4>Day 45</h4>
 <p>Project Scientific Calculator 🧮</p>
+
+<h4>Day 66</h4>
+<p>Getting Started with JS<p>
