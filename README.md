@@ -147,3 +147,6 @@
 
 <h4>Day 66</h4>
 <p>Getting Started with JS<p>
+
+<h4>Day 67</h4>
+<p>Square Calc p>
