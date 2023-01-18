@@ -150,3 +150,9 @@
 
 <h4>Day 67</h4>
 <p>Square Calc <p>
+
+<h4>Day 68</h4>
+<p>Selection Sort</p>
+
+<h4>Day 69</h4>
+<p>Insertion Sort</p>
