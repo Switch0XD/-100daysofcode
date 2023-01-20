@@ -156,3 +156,6 @@
 
 <h4>Day 69</h4>
 <p>Insertion Sort</p>
+
+<h4>Day 70</h4>
+<p>Bubble Sort</p>
