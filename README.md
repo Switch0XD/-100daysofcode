@@ -159,3 +159,7 @@
 
 <h4>Day 70</h4>
 <p>Bubble Sort</p>
+
+
+<h4>Day 71</h4>
+<p>Fibonacci Series</p>
