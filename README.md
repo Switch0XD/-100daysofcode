@@ -163,3 +163,6 @@
 
 <h4>Day 71</h4>
 <p>Fibonacci Series</p>
+
+<h4>Day 72</h4>
+<p>Flip one</p>
