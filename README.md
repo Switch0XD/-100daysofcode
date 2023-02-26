@@ -168,5 +168,9 @@
 <p>Flip one</p>
 
 
-<h4>Day 72</h4>
+<h4>Day 73</h4>
 <p>Best time to buy and sell stock 8</p>
+
+
+<h4>Day 74</h4>
+<p>Operators</p>
