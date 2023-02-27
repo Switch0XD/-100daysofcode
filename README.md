@@ -174,3 +174,6 @@
 
 <h4>Day 74</h4>
 <p>Operators</p>
+
+<h4>Day 75</h4>
+<p>Jump Game</p>
